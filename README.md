@@ -1,5 +1,7 @@
 # DataScraper Agent
 
+**🔴 Live dashboard:** https://datascraperagent-hwujjbr5i62ysmkviv7ebb.streamlit.app/
+
 A small AI agent that finds remote AI/agent-developer job listings, scores
 each one for relevance using Claude, and — if the first pass comes up short —
 autonomously decides to broaden its own search and try again.
