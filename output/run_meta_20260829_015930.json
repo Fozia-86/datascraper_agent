@@ -1,0 +1,16 @@
+{
+  "timestamp": "20260829_015930",
+  "generated_at_utc": "2026-08-29T01:59:30.139124+00:00",
+  "model": "claude-opus-5",
+  "relevance_threshold": 6,
+  "total_fetched": 100,
+  "total_relevant": 1,
+  "broaden_attempted": true,
+  "broaden_keywords": [
+    "LLM Engineer",
+    "Prompt Engineering",
+    "LangChain / vector database"
+  ],
+  "broaden_found_new_relevant": false,
+  "broaden_new_candidates_scored": 0
+}

@@ -1,0 +1,17 @@
+# Secrets — never commit real keys
+.env
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+streamlit_log.txt
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
