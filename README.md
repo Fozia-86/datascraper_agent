@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/09017a0c-095c-464f-a88d-b3e250c8f8fd
+
+
+
 # DataScraper Agent
 
 **🔴 Live dashboard:** https://datascraperagent-hwujjbr5i62ysmkviv7ebb.streamlit.app/
