@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Senior Backend Engineer Build AI Agents",
+    "company": "Salesforge",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
+    "score": 9,
+    "reasoning": "This role explicitly focuses on building autonomous AI agents that run conversations and workflows, matching the candidate's agentic LLM expertise closely, with only the Golang/backend stack as a possible mismatch.",
+    "date": "2026-08-25T07:00:03+00:00"
+  },
+  {
+    "title": "AI Engineer Data APIs",
+    "company": "Benzinga",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+    "score": 6,
+    "reasoning": "An AI Engineer role working on data APIs is technically adjacent and likely involves LLM/AI work, though the Golang tag suggests a language mismatch with the candidate's Python focus.",
+    "date": "2026-08-30T21:00:01+00:00"
+  }
+]

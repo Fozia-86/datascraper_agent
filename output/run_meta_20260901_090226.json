@@ -1,0 +1,16 @@
+{
+  "timestamp": "20260901_090226",
+  "generated_at_utc": "2026-09-01T09:02:26.739669+00:00",
+  "model": "claude-opus-5",
+  "relevance_threshold": 6,
+  "total_fetched": 100,
+  "total_relevant": 2,
+  "broaden_attempted": true,
+  "broaden_keywords": [
+    "LLM Engineer",
+    "Generative AI Developer",
+    "Python Automation / Integrations Engineer"
+  ],
+  "broaden_found_new_relevant": false,
+  "broaden_new_candidates_scored": 0
+}
