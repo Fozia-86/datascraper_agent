@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Senior Backend Engineer Build AI Agents",
+    "company": "Salesforge",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
+    "score": 10,
+    "reasoning": "Building autonomous AI agents that run conversations and workflows on a senior backend team maps almost exactly onto the candidate's agentic LLM, tool-use, and automation expertise.",
+    "date": "2026-08-25T07:00:03+00:00"
+  },
+  {
+    "title": "AI Engineer Data APIs",
+    "company": "Benzinga",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+    "score": 8,
+    "reasoning": "An AI Engineer role focused on data APIs is strongly aligned with the candidate's LLM/Python engineering skills, though it emphasizes backend API architecture over agents specifically.",
+    "date": "2026-08-30T21:00:01+00:00"
+  },
+  {
+    "title": "Principal Engineer",
+    "company": "The AI Whistleblower Initiative",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162",
+    "score": 6,
+    "reasoning": "A Principal Engineer role at an AI-focused nonprofit fits the candidate's engineering and AI domain interest, but likely demands senior full-stack/infra leadership rather than agent development.",
+    "date": "2026-08-27T09:00:02+00:00"
+  }
+]
