@@ -1,0 +1,16 @@
+{
+  "timestamp": "20260903_082547",
+  "generated_at_utc": "2026-09-03T08:25:47.208696+00:00",
+  "model": "claude-opus-5",
+  "relevance_threshold": 6,
+  "total_fetched": 100,
+  "total_relevant": 1,
+  "broaden_attempted": true,
+  "broaden_keywords": [
+    "LLM Engineer",
+    "Generative AI Developer",
+    "Prompt Engineering / LangChain"
+  ],
+  "broaden_found_new_relevant": false,
+  "broaden_new_candidates_scored": 0
+}
