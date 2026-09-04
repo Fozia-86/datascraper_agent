@@ -1,0 +1,16 @@
+{
+  "timestamp": "20260904_082121",
+  "generated_at_utc": "2026-09-04T08:21:21.466259+00:00",
+  "model": "claude-opus-5",
+  "relevance_threshold": 6,
+  "total_fetched": 100,
+  "total_relevant": 2,
+  "broaden_attempted": true,
+  "broaden_keywords": [
+    "LLM Engineer",
+    "Prompt Engineering",
+    "AI Automation Engineer"
+  ],
+  "broaden_found_new_relevant": false,
+  "broaden_new_candidates_scored": 0
+}
