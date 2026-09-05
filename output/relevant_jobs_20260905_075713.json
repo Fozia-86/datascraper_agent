@@ -1,0 +1,20 @@
+[
+  {
+    "title": "AI Engineer Data APIs",
+    "company": "Benzinga",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+    "score": 8,
+    "reasoning": "An AI Engineer role focused on data APIs closely matches the candidate's LLM/agent and Python engineering background, though the emphasis on Go and data APIs may not perfectly align.",
+    "date": "2026-08-30T21:00:01+00:00"
+  },
+  {
+    "title": "Principal Engineer",
+    "company": "The AI Whistleblower Initiative",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162",
+    "score": 6,
+    "reasoning": "A Principal Engineer role at an AI-focused nonprofit is a strong seniority and domain fit, but the Go tag and secure-platform mission suggest it may not center on LLM agents or RAG.",
+    "date": "2026-08-27T09:00:02+00:00"
+  }
+]
