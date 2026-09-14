@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Senior Backend Engineer Build AI Agents",
+    "company": "Salesforge",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
+    "score": 9,
+    "reasoning": "Building autonomous AI agents that run outreach conversations is a near-perfect match for agentic loops and tool-use expertise, only slightly discounted by the Go backend orientation.",
+    "date": "2026-08-25T07:00:03+00:00"
+  },
+  {
+    "title": "AI Engineer Data APIs",
+    "company": "Benzinga",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+    "score": 7,
+    "reasoning": "An AI Engineer role focused on data APIs aligns well with LLM/tooling and backend integration work, though the Go tag suggests a stack mismatch with Python.",
+    "date": "2026-08-30T21:00:01+00:00"
+  },
+  {
+    "title": "Digital Workplace & Automation Specialist",
+    "company": "Dreem Health",
+    "location": "United States",
+    "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+    "score": 6,
+    "reasoning": "This workplace AI automation specialist role directly values automation and AI tooling, though it's more internal IT/ops-focused than deep agent engineering.",
+    "date": "2026-08-18T16:00:22+00:00"
+  },
+  {
+    "title": "Member of Technical Staff Engineering",
+    "company": "Physical Superintelligence",
+    "location": "Boston",
+    "url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
+    "score": 6,
+    "reasoning": "Building AI systems platform infrastructure at a Python-centric AI research startup aligns well with the candidate's AI engineering background, though it skews toward computational science rather than agentic LLM/RAG work.",
+    "date": "2026-08-16T00:00:23+00:00"
+  }
+]
