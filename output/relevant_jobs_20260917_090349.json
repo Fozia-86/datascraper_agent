@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Senior Backend Engineer Build AI Agents",
+    "company": "Salesforge",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
+    "score": 9,
+    "reasoning": "Building autonomous AI agents as a senior backend engineer directly matches the candidate's core agentic LLM expertise, with only the Go stack as a minor mismatch versus Python.",
+    "date": "2026-08-25T07:00:03+00:00"
+  },
+  {
+    "title": "AI Engineer Data APIs",
+    "company": "Benzinga",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+    "score": 7,
+    "reasoning": "An AI Engineer role building data APIs is strongly aligned with LLM/AI engineering work, though the Go tagging suggests a different primary language than Python.",
+    "date": "2026-08-30T21:00:01+00:00"
+  },
+  {
+    "title": "Digital Workplace & Automation Specialist",
+    "company": "Dreem Health",
+    "location": "United States",
+    "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+    "score": 7,
+    "reasoning": "This Workplace Technology & AI Automation Specialist role explicitly centers on building AI-driven internal automations and workflows, which directly matches the candidate's automation and agent-building strengths.",
+    "date": "2026-08-18T16:00:22+00:00"
+  },
+  {
+    "title": "Member of Technical Staff Engineering",
+    "company": "Physical Superintelligence",
+    "location": "Boston",
+    "url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
+    "score": 6,
+    "reasoning": "Building AI systems platform infrastructure at a Python-heavy research startup overlaps with the candidate's AI engineering skills, though it leans toward computational science infra rather than LLM agents.",
+    "date": "2026-08-16T00:00:23+00:00"
+  }
+]
