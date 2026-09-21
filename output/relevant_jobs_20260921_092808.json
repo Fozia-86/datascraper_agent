@@ -1,0 +1,38 @@
+[
+  {
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+    "score": 9,
+    "reasoning": "Explicitly an AI agent engineer role building and operating agents for workflow automation, matching the candidate's core specialty almost exactly.",
+    "date": "2026-09-16T12:44:27+00:00"
+  },
+  {
+    "title": "Senior Backend Engineer Build AI Agents",
+    "company": "Salesforge",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
+    "score": 8,
+    "reasoning": "Building autonomous AI sales agents is a direct match for agentic LLM experience, though the Go backend stack differs from the candidate's Python focus.",
+    "date": "2026-08-25T07:00:03+00:00"
+  },
+  {
+    "title": "AI Engineer Data APIs",
+    "company": "Benzinga",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+    "score": 6,
+    "reasoning": "An AI Engineer role focused on data APIs is broadly aligned with LLM/RAG backend work, though the Golang tagging and sparse description reduce confidence in a Python agent fit.",
+    "date": "2026-08-30T21:00:01+00:00"
+  },
+  {
+    "title": "Digital Workplace & Automation Specialist",
+    "company": "Dreem Health",
+    "location": "United States",
+    "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+    "score": 6,
+    "reasoning": "A workplace AI automation specialist role centers on workflow automation and AI tooling, which fits the candidate's automation strengths though it is more IT-ops than deep agent engineering.",
+    "date": "2026-08-18T16:00:22+00:00"
+  }
+]
