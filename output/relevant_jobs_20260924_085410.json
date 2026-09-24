@@ -1,0 +1,47 @@
+[
+  {
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+    "score": 9,
+    "reasoning": "An 'AI agent engineer' role building and managing fleets of agents is nearly an exact match, with only the Go/TypeScript stack slightly off from Python.",
+    "date": "2026-09-16T12:44:27+00:00"
+  },
+  {
+    "title": "Senior Backend Engineer Build AI Agents",
+    "company": "Salesforge",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
+    "score": 9,
+    "reasoning": "Explicitly about building autonomous AI agents that run conversations and take actions, matching the candidate's agentic-loop and tool-use expertise almost exactly.",
+    "date": "2026-08-25T07:00:03+00:00"
+  },
+  {
+    "title": "Engineering Manager TLM Platform",
+    "company": "Harper",
+    "location": "San Francisco",
+    "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380",
+    "score": 6,
+    "reasoning": "Leading an engineering team building a 90% AI-led insurance workflow platform strongly leverages agentic/automation expertise, though it is a management role rather than hands-on freelance building.",
+    "date": "2026-09-11T00:00:35+00:00"
+  },
+  {
+    "title": "AI Engineer Data APIs",
+    "company": "Benzinga",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+    "score": 6,
+    "reasoning": "An AI Engineer role focused on data APIs is a solid technical/AI fit, though the Go emphasis and data-pipeline focus diverge from the candidate's Python-and-agents specialty.",
+    "date": "2026-08-30T21:00:01+00:00"
+  },
+  {
+    "title": "Digital Workplace & Automation Specialist",
+    "company": "Dreem Health",
+    "location": "United States",
+    "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+    "score": 6,
+    "reasoning": "Workplace automation with an explicit AI automation mandate aligns well with the candidate's workflow automation strengths, though it is an internal IT/ops role rather than agent engineering.",
+    "date": "2026-08-18T16:00:22+00:00"
+  }
+]
