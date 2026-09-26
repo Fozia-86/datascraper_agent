@@ -1,0 +1,56 @@
+[
+  {
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+    "score": 10,
+    "reasoning": "An AI agent engineer role explicitly about identifying, building, and running LLM agents for workflow automation \u2014 a direct match to the candidate's core strengths.",
+    "date": "2026-09-16T12:44:27+00:00"
+  },
+  {
+    "title": "Senior Backend Engineer Build AI Agents",
+    "company": "Salesforge",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
+    "score": 9,
+    "reasoning": "Building autonomous AI agents for prospecting and outreach directly matches the candidate's agentic loop and tool-use expertise, though the backend stack is Go rather than Python.",
+    "date": "2026-08-25T07:00:03+00:00"
+  },
+  {
+    "title": "AI Engineer Data APIs",
+    "company": "Benzinga",
+    "location": "Remote",
+    "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+    "score": 7,
+    "reasoning": "An AI Engineer role focused on data APIs aligns well with LLM/backend work, though the stack leans Go and the description is sparse on agentic/RAG specifics.",
+    "date": "2026-08-30T21:00:01+00:00"
+  },
+  {
+    "title": "Engineering Manager TLM Platform",
+    "company": "Harper",
+    "location": "San Francisco",
+    "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380",
+    "score": 6,
+    "reasoning": "An engineering manager role at an AI-led insurance platform involves building AI workflows, but it's a management position likely requiring full-time employment rather than freelance agent development.",
+    "date": "2026-09-11T00:00:35+00:00"
+  },
+  {
+    "title": "Digital Workplace & Automation Specialist",
+    "company": "Dreem Health",
+    "location": "United States",
+    "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+    "score": 6,
+    "reasoning": "This workplace AI automation specialist role centers on internal workflow automation and AI tooling, which matches the candidate's automation and agent skills though it's more IT-ops than deep engineering.",
+    "date": "2026-08-18T16:00:22+00:00"
+  },
+  {
+    "title": "Senior Software Engineer Case Execution",
+    "company": "Pivotal Health",
+    "location": "New York City",
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
+    "score": 6,
+    "reasoning": "A Python-heavy backend engineering role at a health-tech company automating complex administrative dispute workflows, which aligns reasonably with the candidate's Python and workflow-automation strengths even though it isn't explicitly an AI agent position.",
+    "date": "2026-08-16T00:00:03+00:00"
+  }
+]
