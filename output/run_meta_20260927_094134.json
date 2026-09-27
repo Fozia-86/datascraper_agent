@@ -1,0 +1,12 @@
+{
+  "timestamp": "20260927_094134",
+  "generated_at_utc": "2026-09-27T09:41:34.581381+00:00",
+  "model": "claude-opus-5",
+  "relevance_threshold": 6,
+  "total_fetched": 99,
+  "total_relevant": 4,
+  "broaden_attempted": false,
+  "broaden_keywords": [],
+  "broaden_found_new_relevant": false,
+  "broaden_new_candidates_scored": 0
+}
